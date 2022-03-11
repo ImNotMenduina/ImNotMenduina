@@ -1,11 +1,14 @@
 ### Olá ! Eu sou Lucas Menduiña (ImNotMenduina)
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
+<hr>
 <div align="center">
   <a href="https://github.com/ImNotMenduina">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ImNotMenduina&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" style="display:inline-block"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImNotMenduina&layout=compact&langs_count=7&theme=highcontrast" style="display:inline-block"/>
 </div>
+  
+  
   
   <div align="left"><br> 
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,6 +25,8 @@
   <a href = "mailto:mynameis_menduina@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-mendui%C3%B1a-380416232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+  
+  <hr>
  
   ![Snake animation](https://github.com/ImNotMenduina/ImNotMenduina/blob/output/github-contribution-grid-snake.svg)
  

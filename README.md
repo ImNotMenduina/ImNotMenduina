@@ -1,10 +1,10 @@
 ### Olá ! Eu sou Lucas Menduiña (ImNotMenduina)
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-<div align="center" style="box-shadow:1px 1px 5px blue">
+<div align="center">
   <a href="https://github.com/ImNotMenduina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImNotMenduina&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImNotMenduina&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImNotMenduina&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" style="display:inline-block"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImNotMenduina&layout=compact&langs_count=7&theme=highcontrast" style="display:inline-block"/>
 </div>
   
   <div align="center"><br>

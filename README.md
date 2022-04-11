@@ -6,7 +6,7 @@
 
 ##
 <ul>
-  <li><p>🌱 I’m currently learning PHP && React.</p></li>
+  <li><p>🌱 I’m currently learning PHP.</p></li>
   <li><p>🔭 I’m currently working on my portfolio.</p></li>
   </ul>
 <br>

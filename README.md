@@ -11,26 +11,29 @@
   </ul>
 <br>
 
+  <div align="left" ><br> 
+  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display:inline-block">
+  <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="display:inline-block">
+  <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="display:inline-block">
+  <img align="center" alt="Rafa-cpp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="display:inline-block"> 
+  </div>
+
+ 
+  
+
+  ##
+
 <div align="center">
   <a href="https://github.com/ImNotMenduina">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ImNotMenduina&show_icons=true&theme=default&include_all_commits=true&count_private=true" style="display:inline-block"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImNotMenduina&layout=compact&langs_count=7&theme=default&hide=Hack" style="display:inline-block"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=ImNotMenduina&repo=phpmyadmin&show_owner=true&theme=dark" style="display:inline-block"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=ImNotMenduina&repo=what-s-Blockchain&show_owner=true&theme=dark" style="display:inline-block"/>
+  
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImNotMenduina&layout=compact&langs_count=7&theme=midnight-purple&hide=Hack" style="display:inline-block"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ImNotMenduina&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" style="display:inline-block"/>
+
     
 </div>
   
-  
-  
-  <div align="left"><br> 
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
-  </div>
-
-  ##
+ 
   
   <div align="left"><br> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

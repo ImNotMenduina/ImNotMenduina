@@ -1,24 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 <h1>🙅‍♂️ Lucas Menduiña</h1>
-<h3>Software Development is in my blood , that's why i'm here ! 😜😍</h3>
-<p>While(faith){ return theBestOfYou; }</p>
-
-##
-<ul>
-  <li><p>🌱 I’m currently learning data science and web development.</p></li>
-  </ul>
-<br>
-
-  <div align="left" ><br> 
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="display:inline-block">
-  <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="display:inline-block">
-  <img align="center" alt="Rafa-cpp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="display:inline-block"> 
-  <img align="center" alt="Rafa-PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display:inline-block">
-  </div>
-
- 
   
 
   ##

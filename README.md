@@ -1,24 +1,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 <h1>🙅‍♂️ Lucas Menduiña</h1>
-  
-
-  ##
-
-<div align="center">
-  <a href="https://github.com/ImNotMenduina">
-  
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImNotMenduina&layout=compact&langs_count=7&theme=midnight-purple&hide=Hack" style="display:inline-block"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ImNotMenduina&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" style="display:inline-block"/>
-
-    
-</div>
-  
- 
-  
+Computer Science - UFRRJ
   <div align="left"><br> 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mynameis_menduina@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-mendui%C3%B1a-380416232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>

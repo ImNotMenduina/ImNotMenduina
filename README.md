@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-<h1>Hey, I'm Lucas, 📢 LET'S COOODE !</h1>
+<h1>🙅‍♂️ Lucas Menduiña</h1>
 <h3>Software Development is in my blood , that's why i'm here ! 😜😍</h3>
 <p>While(faith){ return theBestOfYou; }</p>
 

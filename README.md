@@ -1,7 +1,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-<h1>🙅‍♂️ Lucas Menduiña</h1>
-Computer Science - UFRRJ
+<h1>🙅🏻‍♂️ Lucas Menduiña</h1>
+<p>Computer Science - UFRRJ</p>
+| C | JS | HTML | CSS | Node JS | PHP | Git |
   <div align="left"><br> 
   <a href = "mailto:mynameis_menduina@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-mendui%C3%B1a-380416232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

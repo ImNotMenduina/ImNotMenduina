@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-<h1>🙅🏻‍♂️ Lucas Menduiña</h1>
+<h1>👨‍💻 Lucas Menduiña</h1>
 <p>Computer Science - UFRRJ</p>
 | C | JS | HTML | CSS | Node JS | PHP | Git |
   <div align="left"><br> 

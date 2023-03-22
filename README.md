@@ -2,7 +2,7 @@
 
 <h1>👨‍💻 Lucas Menduiña</h1>
 <p>Computer Science - UFRRJ</p>
-| C | JS | HTML | CSS | Node JS | PHP | Git |
+| C | AdonisJS | HTML | CSS | JS | Git |
   <div align="left"><br> 
   <a href = "mailto:lucasmenduina.cc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>

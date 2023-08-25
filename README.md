@@ -8,7 +8,5 @@
 <p><img align="right" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=imnotmenduina&theme=highcontrast" alt="imnotmenduina" />
 </p>
 
-<p><img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=imnotmenduina&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="imnotmenduina" />
-</p>
-
 </div>
+

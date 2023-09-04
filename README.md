@@ -1,6 +1,7 @@
 # 👨‍💻: Lucas Menduiña
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ImNotMenduina)](https://github.com/ImNotMenduina)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lucasmenduina.cc@gmail.com)
 
 ## Hi there 👋
 

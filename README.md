@@ -10,7 +10,7 @@ My name is Lucas Menduiña!
 - 👨‍🎓: Student at **UFRRJ** - Computer Science - 6th Term
 - 👨‍💻: C, C++, C#, Java, HTML, CSS, JavaScript, ...
 
----
+
   <summary> <b> Do you want to know more about me? </b> </summary>
   <br>
 

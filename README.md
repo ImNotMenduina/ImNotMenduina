@@ -11,13 +11,12 @@ My name is Lucas Menduiña!
 - 👨‍💻: C, C++, C#, Java, HTML, CSS, JavaScript, ...
 
 
-  <summary> <b> Do you want to know more about me? </b> </summary>
+<details>
+  <summary> <b> Do you want to know more about me? </b> <i> (Click here to expand) </i> </summary>
   <br>
-
+  <br>
   <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=imnotmenduina&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="imnotmenduina" />
-
-
-
+</details>
 
 
 

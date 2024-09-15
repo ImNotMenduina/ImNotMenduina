@@ -16,6 +16,7 @@ My name is Lucas Menduiña!
   <br>
   <br>
   <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=imnotmenduina&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="imnotmenduina" />
+  <img align="center" width="40%" alt="Coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnpmdzRiN3VsamQzZDR6M213dDAxOWo3dHk5dXduMHY3b2s0YXJiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QTrG6mjkHEkpFR3DqX/giphy.webp">
 </details>
 
 

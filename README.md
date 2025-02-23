@@ -12,15 +12,6 @@ My name is Lucas Menduiña!
 
 
 
-<br>
-<br>
-<img align="center" width="40%" alt="Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm83NjRoMW43b2Z3YXAxMXhoZmVjdGZ1M2F3a28zbjk0dzBhdjlreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MM0Jrc8BHKx3y/giphy.webp">
-
-
-
-
-
-
 
 
 
